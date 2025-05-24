@@ -6,9 +6,7 @@ How to run This ?
  I am choosing Google Colab as it's free & no need to do complex setup like Jypter Notebook.
  Make sure you have a Google Account !
  
- Link of Google Colab - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8
- &ved=2ahUKEwjstNzikLqNAxVNafUHHWXmMnwQjBB6BAgNEAE&url=https%3A%2F%2Fcolab.research.google.com%
- 2F%3Fauthuser%3D1&usg=AOvVaw0nPfRj68lGbt4PItnqYTBd&opi=89978449
+ Link of Google Colab - https://colab.research.google.com/drive/18iA0KiNmMmWHEO5X7rVBTpJKwEkFWnes?authuser=0
  
  Open this link and sign in using your existing Google Account.
  Now, openNotebook you can see an Interface like this.
